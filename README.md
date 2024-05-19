@@ -10,7 +10,7 @@
 
 `git add .`
 
-`git config --global user.email longthinh@mail.com`
+`git config --global user.email longthinhdev@icloud.com`
 
 `git config --global user.name longthinh`
 
