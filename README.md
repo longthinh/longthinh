@@ -3,3 +3,17 @@
 · 🌱 I’m interested in coding
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=longthinh&showicons=true&hide=contribs,prs,issues&theme=radical)](https://github.com/longthinh/Public)
+
+`git clone https://github.com/longthinh/Tutorial.git`
+
+`git add {name}`
+
+`git add .`
+
+`git config --global user.email longthinh@mail.com`
+
+`git config --global user.name longthinh`
+
+`git commit -m "Updates"`
+
+`git push -u origin main`
