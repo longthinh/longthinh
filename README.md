@@ -2,7 +2,7 @@
 
 ## `print("Hello, World!")` ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
-## `console.log("Xin chào!");` ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=Javascript&logoColor=%23F7DF1E)
+## `console.log("Xin chào!");` ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 ## `puts "你好!"` ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
 
