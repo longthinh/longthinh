@@ -1,3 +1,14 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=longthinh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/longthinhdev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/luxydev)
+<p align="center">
+  <a href="#">
+    <img src="Images/SwizzAI.png" alt="SwizzAI" width="100"/>
+  </a>
+  <a href="#">
+    <img src="Images/SwizzVPN.png" alt="SwizzVPN" width="100"/>
+  </a>
+    <a href="#">
+    <img src="Images/SwizzVPNLite.png" alt="SwizzVPN Lite" width="100"/>
+  </a>
+  <a href="#">
+    <img src="Images/SwizzTube.png" alt="palera1n" width="100"/>
+  </a>
+</p>
