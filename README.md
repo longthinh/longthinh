@@ -12,4 +12,3 @@
     <img src="Images/SwizzVPNLite.png" alt="SwizzVPN Lite" width="100"/>
   </a>
 </p>
-S
