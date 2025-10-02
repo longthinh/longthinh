@@ -16,6 +16,6 @@
   </a>
 </p>
 
-Bạn có thể tìm thấy chúng trên cửa hàng App Store hoặc xem chi tiết tại website [Luxydev](https://longthinh.github.io/Luxydev/Index.html)
+You can find them on the App Store or view details on the website: [Luxydev](https://longthinh.github.io/Luxydev/Index.html)
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/luxydev)
