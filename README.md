@@ -1,6 +1,6 @@
 <!-- ## `console.log("Hello, World!");` ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) -->
 
-## `Swizz-apps on App Store` ✨
+## `App Store` ✨
 <p align="center">
   <a href="https://apps.apple.com/app/id6447283144">
     <img src="Images/SwizzAI.png" alt="SwizzAI" width="100"/>
