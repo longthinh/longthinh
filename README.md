@@ -1,6 +1,6 @@
 ## `console.log("Hello, World!");` ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
-## The Excellent Applicaton ✨
+## Swizz-apps on App Store ✨
 <p align="center">
   <a href="https://apps.apple.com/app/id6447283144">
     <img src="Images/SwizzAI.png" alt="SwizzAI" width="100"/>
@@ -8,14 +8,20 @@
     <a href="https://apps.apple.com/app/id1660167141">
     <img src="Images/SwizzVPN.png" alt="SwizzVPN" width="100"/>
   </a>
-  <a href="https://apps.apple.com/app/id6746919640">
+  <!-- <a href="https://apps.apple.com/app/id6746919640">
     <img src="Images/SwizzVPNLite.png" alt="SwizzVPN Lite" width="100"/>
-  </a>
+  </a> -->
   <a href="https://apps.apple.com/app/id6466721604">
     <img src="Images/SwizzTube.png" alt="SwizzTube" width="100"/>
   </a>
 </p>
 
-You can find them on the App Store or view details on the website: [Luxydev](https://longthinh.github.io/Luxydev/Index.html)
+## About me
+<p align="left">
+  <a href="https://longthinh.github.io/Luxydev/Index.html">
+    <img src="Images/Me.png" alt="LUXYDEV" width="100"/>
+  </a>
+</p>
+
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/luxydev)
