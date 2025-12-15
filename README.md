@@ -19,7 +19,7 @@
 ## `About me`
 <p align="left">
   <a href="https://longthinh.github.io/Luxydev/Index.html">
-    <img src="Images/Me.png" alt="LUXYDEV" width="100"/>
+    <img src="Images/Favicon.png" alt="LUXYDEV" width="100"/>
   </a>
 </p>
 
