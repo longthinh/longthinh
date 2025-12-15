@@ -1,6 +1,6 @@
-## `console.log("Hello, World!");` ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+<!-- ## `console.log("Hello, World!");` ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) -->
 
-## Swizz-apps on App Store ✨
+## `Swizz-apps on App Store` ✨
 <p align="center">
   <a href="https://apps.apple.com/app/id6447283144">
     <img src="Images/SwizzAI.png" alt="SwizzAI" width="100"/>
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## About me
+## `About me`
 <p align="left">
   <a href="https://longthinh.github.io/Luxydev/Index.html">
     <img src="Images/Me.png" alt="LUXYDEV" width="100"/>
